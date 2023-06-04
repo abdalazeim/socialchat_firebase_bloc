@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075016591073",
+    "project_id": "social-chat-firebase-bloc",
+    "storage_bucket": "social-chat-firebase-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075016591073:android:0b99d801a4e3e67b9ff9a0",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075016591073-sldmia795s0rln7ec7mm7q4n7nr7is3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "ef83c5387c431de011973b837dd1448bc05f4ac5"
+          }
+        },
+        {
+          "client_id": "1075016591073-qefvaoqmhik2irdtlgsd4l20pk2i9f08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNo9zZYei3mh2NAbyUAQwdIjm9rf68K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075016591073-qefvaoqmhik2irdtlgsd4l20pk2i9f08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
